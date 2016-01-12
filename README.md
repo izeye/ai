@@ -21,6 +21,15 @@
 * Using Neural Networks With Regression
   * http://deeplearning4j.org/linear-regression.html
 
+## GPU
+### NVIDIA
+* KEPLER - THE WORLD'S FASTEST, MOST EFFICIENT HPC ARCHITECTURE
+  * http://www.nvidia.com/object/nvidia-kepler.html
+* THE CUDA PARALLEL COMPUTING PLATFORM
+  * http://www.nvidia.com/object/cuda-parallel-computing-platform.html
+* WHAT IS GPU ACCELERATED COMPUTING?
+  * http://www.nvidia.com/object/what-is-gpu-computing.html
+
 ## Wikipedia
 * Backpropagation through structure
   * https://en.wikipedia.org/wiki/Backpropagation_through_structure
