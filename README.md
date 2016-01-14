@@ -43,6 +43,8 @@
   * https://en.wikipedia.org/wiki/Backpropagation_through_time
 * Bag-of-words model
   * https://en.wikipedia.org/wiki/Bag-of-words_model
+* Concept-based image indexing
+  * https://en.wikipedia.org/wiki/Concept-based_image_indexing
 * Decision tree
   * https://en.wikipedia.org/wiki/Decision_tree
 * Feature engineering
@@ -57,6 +59,8 @@
   * https://en.wikipedia.org/wiki/Phrase_search
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
+* Visual Word
+  * https://en.wikipedia.org/wiki/Visual_Word
 * Well-posed problem
   * https://en.wikipedia.org/wiki/Well-posed_problem
 * Word embedding
