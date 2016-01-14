@@ -5,6 +5,12 @@
   * Alexander Ihler
   * https://www.youtube.com/watch?v=WnqQrPNYz5Q
 
+## Tutorials
+### Oxford
+#### VGG
+* Recognition of object instances practical
+  * http://www.robots.ox.ac.uk/~vgg/practicals/instance-recognition/index.html
+
 ## Papers
 * Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books
   * http://arxiv.org/pdf/1506.06724v1.pdf
@@ -39,14 +45,20 @@
   * https://en.wikipedia.org/wiki/Bag-of-words_model
 * Decision tree
   * https://en.wikipedia.org/wiki/Decision_tree
+* Feature engineering
+  * https://en.wikipedia.org/wiki/Feature_engineering
 * Feature scaling
   * https://en.wikipedia.org/wiki/Feature_scaling
+* Feature vector
+  * https://en.wikipedia.org/wiki/Feature_vector
 * Long short-term memory
   * https://en.wikipedia.org/wiki/Long_short-term_memory
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
+* Well-posed problem
+  * https://en.wikipedia.org/wiki/Well-posed_problem
 * Word embedding
   * https://en.wikipedia.org/wiki/Word_embedding
 * Word2vec
