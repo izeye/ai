@@ -10,6 +10,8 @@
 #### VGG
 * Recognition of object instances practical
   * http://www.robots.ox.ac.uk/~vgg/practicals/instance-recognition/index.html
+* Recognition of object categories practical
+  * http://www.robots.ox.ac.uk/~vgg/practicals/category-recognition/index.html
 
 ## Papers
 * Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books
@@ -67,3 +69,11 @@
   * https://en.wikipedia.org/wiki/Word_embedding
 * Word2vec
   * https://en.wikipedia.org/wiki/Word2vec
+
+## Wolfram
+* L^1-Norm
+  * http://mathworld.wolfram.com/L1-Norm.html
+* L^2-Norm
+  * http://mathworld.wolfram.com/L2-Norm.html
+* Vector Norm
+  * http://mathworld.wolfram.com/VectorNorm.html
