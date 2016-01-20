@@ -8,10 +8,16 @@
 ## Tutorials
 ### Oxford
 #### VGG
+* VGG Computer Vision Practicals
+  * http://www.robots.ox.ac.uk/~vgg/practicals/overview/index.html
 * Recognition of object instances practical
   * http://www.robots.ox.ac.uk/~vgg/practicals/instance-recognition/index.html
 * Recognition of object categories practical
   * http://www.robots.ox.ac.uk/~vgg/practicals/category-recognition/index.html
+* Object category detection practical
+  * http://www.robots.ox.ac.uk/~vgg/practicals/category-detection/index.html
+* VGG Convolutional Neural Networks Practical
+  * http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html
 
 ## Papers
 * Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books
