@@ -25,6 +25,11 @@
 * Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks
   * https://www.researchgate.net/publication/277334140_Texture_synthesis_and_the_controlled_generation_of_natural_stimuli_using_convolutional_neural_networks
 
+## Blogs
+### Christopher Olah
+* Understanding LSTM Networks
+** http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ## Libraries
 ### Java
 #### DL4J (Deep Learning for Java)
