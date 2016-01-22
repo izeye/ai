@@ -70,6 +70,8 @@
   * https://en.wikipedia.org/wiki/Long_short-term_memory
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
+* Sigmoid function
+  * https://en.wikipedia.org/wiki/Sigmoid_function
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
 * Visual Word
