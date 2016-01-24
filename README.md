@@ -70,10 +70,14 @@
   * https://en.wikipedia.org/wiki/Long_short-term_memory
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
+* Rectifier (neural networks)
+  * https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
 * Sigmoid function
   * https://en.wikipedia.org/wiki/Sigmoid_function
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
+* Vanishing gradient problem
+  * https://en.wikipedia.org/wiki/Vanishing_gradient_problem
 * Visual Word
   * https://en.wikipedia.org/wiki/Visual_Word
 * Well-posed problem
