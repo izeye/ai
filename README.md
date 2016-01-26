@@ -32,9 +32,13 @@
   * http://arxiv.org/pdf/1412.3555.pdf
 
 ## Blogs
-### Christopher Olah
-* Understanding LSTM Networks
-** http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+### LSTM
+* Understanding LSTM Networks (Christopher Olah)
+  * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+### Math
+* Why Minimize Negative Log Likelihood?
+  * https://quantivity.wordpress.com/2011/05/23/why-minimize-negative-log-likelihood/
 
 ## Libraries
 ### Java
