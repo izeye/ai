@@ -20,10 +20,16 @@
   * http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html
 
 ## Papers
+### CNN
 * Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books
   * http://arxiv.org/pdf/1506.06724v1.pdf
 * Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks
   * https://www.researchgate.net/publication/277334140_Texture_synthesis_and_the_controlled_generation_of_natural_stimuli_using_convolutional_neural_networks
+
+### RNN
+#### GRU
+* Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+  * http://arxiv.org/pdf/1412.3555.pdf
 
 ## Blogs
 ### Christopher Olah
