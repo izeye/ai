@@ -78,6 +78,10 @@
   * http://www.nvidia.com/object/what-is-gpu-computing.html
 
 ## Wikipedia
+* Activation function
+  * https://en.wikipedia.org/wiki/Activation_function
+* Backpropagation
+  * https://en.wikipedia.org/wiki/Backpropagation
 * Backpropagation through structure
   * https://en.wikipedia.org/wiki/Backpropagation_through_structure
 * Backpropagation through time
@@ -88,24 +92,34 @@
   * https://en.wikipedia.org/wiki/Concept-based_image_indexing
 * Decision tree
   * https://en.wikipedia.org/wiki/Decision_tree
+* Delta rule
+  * https://en.wikipedia.org/wiki/Delta_rule
 * Feature engineering
   * https://en.wikipedia.org/wiki/Feature_engineering
 * Feature scaling
   * https://en.wikipedia.org/wiki/Feature_scaling
 * Feature vector
   * https://en.wikipedia.org/wiki/Feature_vector
+* Linear function
+  * https://en.wikipedia.org/wiki/Linear_function
 * Long short-term memory
   * https://en.wikipedia.org/wiki/Long_short-term_memory
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
+* Plateau (mathematics)
+  * https://en.wikipedia.org/wiki/Plateau_(mathematics)
 * Rectifier (neural networks)
   * https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
 * Sigmoid function
   * https://en.wikipedia.org/wiki/Sigmoid_function
+* Softmax function
+  * https://en.wikipedia.org/wiki/Softmax_function
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
 * Theano (software)
   * https://en.wikipedia.org/wiki/Theano_(software)
+* Truncated Newton method
+  * https://en.wikipedia.org/wiki/Truncated_Newton_method
 * Vanishing gradient problem
   * https://en.wikipedia.org/wiki/Vanishing_gradient_problem
 * Visual Word
