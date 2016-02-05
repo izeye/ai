@@ -100,6 +100,8 @@
   * https://en.wikipedia.org/wiki/Feature_scaling
 * Feature vector
   * https://en.wikipedia.org/wiki/Feature_vector
+* Gradient descent
+  * https://en.wikipedia.org/wiki/Gradient_descent
 * Linear function
   * https://en.wikipedia.org/wiki/Linear_function
 * Long short-term memory
@@ -114,6 +116,8 @@
   * https://en.wikipedia.org/wiki/Sigmoid_function
 * Softmax function
   * https://en.wikipedia.org/wiki/Softmax_function
+* Stochastic gradient descent
+  * https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
 * Theano (software)
