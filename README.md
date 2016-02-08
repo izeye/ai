@@ -150,5 +150,7 @@
   * http://mathworld.wolfram.com/MatrixPower.html
 * Orthogonal Vectors
   * http://mathworld.wolfram.com/OrthogonalVectors.html
+* Transpose
+  * http://mathworld.wolfram.com/Transpose.html
 * Vector Norm
   * http://mathworld.wolfram.com/VectorNorm.html
