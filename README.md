@@ -140,5 +140,7 @@
   * http://mathworld.wolfram.com/L1-Norm.html
 * L^2-Norm
   * http://mathworld.wolfram.com/L2-Norm.html
+* Orthogonal Vectors
+  * http://mathworld.wolfram.com/OrthogonalVectors.html
 * Vector Norm
   * http://mathworld.wolfram.com/VectorNorm.html
