@@ -136,6 +136,8 @@
   * https://en.wikipedia.org/wiki/Word2vec
 
 ## Wolfram
+* Diagonal Matrix
+  * http://mathworld.wolfram.com/DiagonalMatrix.html
 * L^1-Norm
   * http://mathworld.wolfram.com/L1-Norm.html
 * L^2-Norm
