@@ -138,6 +138,10 @@
 ## Wolfram
 * Diagonal Matrix
   * http://mathworld.wolfram.com/DiagonalMatrix.html
+* Euclidean Plane
+  * http://mathworld.wolfram.com/EuclideanPlane.html
+* Euclidean Space
+  * http://mathworld.wolfram.com/EuclideanSpace.html
 * Identity Matrix
   * http://mathworld.wolfram.com/IdentityMatrix.html
 * k-Matrix
