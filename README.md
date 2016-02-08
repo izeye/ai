@@ -138,6 +138,10 @@
 ## Wolfram
 * Diagonal Matrix
   * http://mathworld.wolfram.com/DiagonalMatrix.html
+* Identity Matrix
+  * http://mathworld.wolfram.com/IdentityMatrix.html
+* k-Matrix
+  * http://mathworld.wolfram.com/k-Matrix.html
 * L^1-Norm
   * http://mathworld.wolfram.com/L1-Norm.html
 * L^2-Norm
