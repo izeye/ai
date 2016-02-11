@@ -96,6 +96,8 @@
   * https://en.wikipedia.org/wiki/Decision_tree
 * Delta rule
   * https://en.wikipedia.org/wiki/Delta_rule
+* Eager learning
+  * https://en.wikipedia.org/wiki/Eager_learning
 * Feature engineering
   * https://en.wikipedia.org/wiki/Feature_engineering
 * Feature learning
@@ -106,12 +108,18 @@
   * https://en.wikipedia.org/wiki/Feature_vector
 * Gradient descent
   * https://en.wikipedia.org/wiki/Gradient_descent
+* Instance-based learning
+  * https://en.wikipedia.org/wiki/Instance-based_learning
+* Lazy learning
+  * https://en.wikipedia.org/wiki/Lazy_learning
 * Linear function
   * https://en.wikipedia.org/wiki/Linear_function
 * Linear predictor function
   * https://en.wikipedia.org/wiki/Linear_predictor_function
 * Long short-term memory
   * https://en.wikipedia.org/wiki/Long_short-term_memory
+* Offline learning
+  * https://en.wikipedia.org/wiki/Offline_learning
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
 * Plateau (mathematics)
