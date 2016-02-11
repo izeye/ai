@@ -90,6 +90,8 @@
   * https://en.wikipedia.org/wiki/Bag-of-words_model
 * Concept-based image indexing
   * https://en.wikipedia.org/wiki/Concept-based_image_indexing
+* Decision boundary
+  * https://en.wikipedia.org/wiki/Decision_boundary
 * Decision tree
   * https://en.wikipedia.org/wiki/Decision_tree
 * Delta rule
