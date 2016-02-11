@@ -96,6 +96,8 @@
   * https://en.wikipedia.org/wiki/Delta_rule
 * Feature engineering
   * https://en.wikipedia.org/wiki/Feature_engineering
+* Feature learning
+  * https://en.wikipedia.org/wiki/Feature_learning
 * Feature scaling
   * https://en.wikipedia.org/wiki/Feature_scaling
 * Feature vector
