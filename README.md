@@ -106,6 +106,8 @@
   * https://en.wikipedia.org/wiki/Gradient_descent
 * Linear function
   * https://en.wikipedia.org/wiki/Linear_function
+* Linear predictor function
+  * https://en.wikipedia.org/wiki/Linear_predictor_function
 * Long short-term memory
   * https://en.wikipedia.org/wiki/Long_short-term_memory
 * Phrase search
