@@ -136,6 +136,8 @@
   * https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 * Stop words
   * https://en.wikipedia.org/wiki/Stop_words
+* Test set
+  * https://en.wikipedia.org/wiki/Test_set
 * Theano (software)
   * https://en.wikipedia.org/wiki/Theano_(software)
 * Truncated Newton method
