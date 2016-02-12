@@ -120,6 +120,8 @@
   * https://en.wikipedia.org/wiki/Long_short-term_memory
 * Offline learning
   * https://en.wikipedia.org/wiki/Offline_learning
+* Overfitting
+  * https://en.wikipedia.org/wiki/Overfitting
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
 * Plateau (mathematics)
