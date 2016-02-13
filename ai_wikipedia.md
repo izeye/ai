@@ -41,6 +41,8 @@
   * https://en.wikipedia.org/wiki/Linear_predictor_function
 * Long short-term memory
   * https://en.wikipedia.org/wiki/Long_short-term_memory
+* Multilayer perceptron
+  * https://en.wikipedia.org/wiki/Multilayer_perceptron
 * Offline learning
   * https://en.wikipedia.org/wiki/Offline_learning
 * Overfitting
