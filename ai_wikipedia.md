@@ -29,6 +29,8 @@
   * https://en.wikipedia.org/wiki/Feature_vector
 * Feedforward neural network
   * https://en.wikipedia.org/wiki/Feedforward_neural_network
+* Free parameter
+  * https://en.wikipedia.org/wiki/Free_parameter
 * Gradient descent
   * https://en.wikipedia.org/wiki/Gradient_descent
 * Instance-based learning
