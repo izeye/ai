@@ -68,6 +68,11 @@
 * Using Neural Networks With Regression
   * http://deeplearning4j.org/linear-regression.html
 
+## Implementations
+### CNN
+* LeNet-5
+  * http://yann.lecun.com/exdb/lenet/
+
 ## GPU
 ### NVIDIA
 * KEPLER - THE WORLD'S FASTEST, MOST EFFICIENT HPC ARCHITECTURE
