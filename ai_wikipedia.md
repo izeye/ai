@@ -27,6 +27,8 @@
   * https://en.wikipedia.org/wiki/Feature_scaling
 * Feature vector
   * https://en.wikipedia.org/wiki/Feature_vector
+* Feedforward neural network
+  * https://en.wikipedia.org/wiki/Feedforward_neural_network
 * Gradient descent
   * https://en.wikipedia.org/wiki/Gradient_descent
 * Instance-based learning
@@ -43,6 +45,8 @@
   * https://en.wikipedia.org/wiki/Offline_learning
 * Overfitting
   * https://en.wikipedia.org/wiki/Overfitting
+* Perceptron
+  * https://en.wikipedia.org/wiki/Perceptron
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
 * Plateau (mathematics)
