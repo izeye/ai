@@ -35,6 +35,8 @@
   * https://en.wikipedia.org/wiki/Gradient_descent
 * Instance-based learning
   * https://en.wikipedia.org/wiki/Instance-based_learning
+* Kernel (image processing)
+  * https://en.wikipedia.org/wiki/Kernel_(image_processing)
 * Lazy learning
   * https://en.wikipedia.org/wiki/Lazy_learning
 * Linear function
