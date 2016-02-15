@@ -11,6 +11,8 @@
   * https://en.wikipedia.org/wiki/Bag-of-words_model
 * Concept-based image indexing
   * https://en.wikipedia.org/wiki/Concept-based_image_indexing
+* Convolutional neural network
+  * https://en.wikipedia.org/wiki/Convolutional_neural_network
 * Decision boundary
   * https://en.wikipedia.org/wiki/Decision_boundary
 * Decision tree
