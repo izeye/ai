@@ -17,6 +17,8 @@
   * https://en.wikipedia.org/wiki/Decision_tree
 * Delta rule
   * https://en.wikipedia.org/wiki/Delta_rule
+* Dropout (neural networks)
+  * https://en.wikipedia.org/wiki/Dropout_(neural_networks)
 * Eager learning
   * https://en.wikipedia.org/wiki/Eager_learning
 * Feature engineering
