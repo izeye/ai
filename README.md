@@ -37,6 +37,8 @@
   * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ### Math
+* l0-Norm, l1-Norm, l2-Norm, … , l-infinity Norm
+  * https://rorasa.wordpress.com/2012/05/13/l0-norm-l1-norm-l2-norm-l-infinity-norm/
 * Why Minimize Negative Log Likelihood?
   * https://quantivity.wordpress.com/2011/05/23/why-minimize-negative-log-likelihood/
 
