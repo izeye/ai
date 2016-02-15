@@ -15,6 +15,8 @@
   * https://en.wikipedia.org/wiki/Decision_boundary
 * Decision tree
   * https://en.wikipedia.org/wiki/Decision_tree
+* DeepDream
+  * https://en.wikipedia.org/wiki/DeepDream
 * Delta rule
   * https://en.wikipedia.org/wiki/Delta_rule
 * Dropout (neural networks)
