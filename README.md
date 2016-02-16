@@ -47,19 +47,21 @@
 #### TensorFlow (https://www.tensorflow.org/)
 ##### GET STARTED
 * Introduction
-  * https://www.tensorflow.org/versions/v0.6.0/get_started/index.html
+  * https://www.tensorflow.org/versions/0.6.0/get_started/index.html
 * Download and Setup
-  * https://www.tensorflow.org/versions/v0.6.0/get_started/os_setup.html
+  * https://www.tensorflow.org/versions/0.6.0/get_started/os_setup.html
 * Basic Usage
-  * https://www.tensorflow.org/versions/v0.6.0/get_started/basic_usage.html
+  * https://www.tensorflow.org/versions/0.6.0/get_started/basic_usage.html
 
 ##### TUTORIALS
 * MNIST For ML Beginners
-  * https://www.tensorflow.org/versions/v0.6.0/tutorials/mnist/beginners/index.html
+  * https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/beginners/index.html
+* Deep MNIST for Experts
+  * https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html
 
 ##### RESOURCES
 * Tensor Ranks, Shapes, and Types
-  * https://www.tensorflow.org/versions/v0.6.0/resources/dims_types.html
+  * https://www.tensorflow.org/versions/0.6.0/resources/dims_types.html
 
 ### Java
 #### DL4J (Deep Learning for Java)
