@@ -59,6 +59,10 @@
 * Deep MNIST for Experts
   * https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html
 
+##### HOW TO
+* Variables: Creation, Initialization, Saving, and Loading
+  * https://www.tensorflow.org/versions/r0.7/how_tos/variables/index.html
+
 ##### RESOURCES
 * Tensor Ranks, Shapes, and Types
   * https://www.tensorflow.org/versions/0.6.0/resources/dims_types.html
