@@ -62,6 +62,8 @@
 ##### HOW TO
 * Variables: Creation, Initialization, Saving, and Loading
   * https://www.tensorflow.org/versions/r0.7/how_tos/variables/index.html
+* TensorBoard: Visualizing Learning
+  * https://www.tensorflow.org/versions/r0.7/how_tos/summaries_and_tensorboard/index.html
 
 ##### RESOURCES
 * Tensor Ranks, Shapes, and Types
