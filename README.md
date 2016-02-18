@@ -64,6 +64,8 @@
   * https://www.tensorflow.org/versions/r0.7/how_tos/variables/index.html
 * TensorBoard: Visualizing Learning
   * https://www.tensorflow.org/versions/r0.7/how_tos/summaries_and_tensorboard/index.html
+* TensorBoard: Graph Visualization
+  * https://www.tensorflow.org/versions/r0.7/how_tos/graph_viz/index.html
 
 ##### RESOURCES
 * Tensor Ranks, Shapes, and Types
