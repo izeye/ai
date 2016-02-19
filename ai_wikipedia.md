@@ -51,6 +51,8 @@
   * https://en.wikipedia.org/wiki/Linear_predictor_function
 * Long short-term memory
   * https://en.wikipedia.org/wiki/Long_short-term_memory
+* MNIST database
+  * https://en.wikipedia.org/wiki/MNIST_database
 * Multilayer perceptron
   * https://en.wikipedia.org/wiki/Multilayer_perceptron
 * Offline learning
