@@ -32,6 +32,10 @@
   * http://arxiv.org/pdf/1412.3555.pdf
 
 ## Blogs
+### General
+* 10 Deep Learning Trends at NIPS 2015
+  * http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html
+
 ### LSTM
 * Understanding LSTM Networks (Christopher Olah)
   * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
