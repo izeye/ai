@@ -71,6 +71,8 @@
   * https://en.wikipedia.org/wiki/Sigmoid_function
 * Softmax function
   * https://en.wikipedia.org/wiki/Softmax_function
+* Standard Boolean model
+  * https://en.wikipedia.org/wiki/Standard_Boolean_model
 * Stochastic gradient descent
   * https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 * Stop words
