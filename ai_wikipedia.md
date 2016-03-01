@@ -55,6 +55,8 @@
   * https://en.wikipedia.org/wiki/MNIST_database
 * Multilayer perceptron
   * https://en.wikipedia.org/wiki/Multilayer_perceptron
+* Null distribution
+  * https://en.wikipedia.org/wiki/Null_distribution
 * Offline learning
   * https://en.wikipedia.org/wiki/Offline_learning
 * Overfitting
