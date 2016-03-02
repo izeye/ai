@@ -93,6 +93,8 @@
   * https://en.wikipedia.org/wiki/Truncated_Newton_method
 * Vanishing gradient problem
   * https://en.wikipedia.org/wiki/Vanishing_gradient_problem
+* Vector space model
+  * https://en.wikipedia.org/wiki/Vector_space_model
 * Visual Word
   * https://en.wikipedia.org/wiki/Visual_Word
 * Well-posed problem
