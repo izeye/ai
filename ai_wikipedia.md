@@ -13,6 +13,8 @@
   * https://en.wikipedia.org/wiki/Concept-based_image_indexing
 * Convolutional neural network
   * https://en.wikipedia.org/wiki/Convolutional_neural_network
+* Cosine similarity
+  * https://en.wikipedia.org/wiki/Cosine_similarity
 * Decision boundary
   * https://en.wikipedia.org/wiki/Decision_boundary
 * Decision tree
