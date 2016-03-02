@@ -47,6 +47,10 @@
   * https://en.wikipedia.org/wiki/Kernel_(image_processing)
 * Lazy learning
   * https://en.wikipedia.org/wiki/Lazy_learning
+* Lexical database
+  * https://en.wikipedia.org/wiki/Lexical_database
+* Lexical resource
+  * https://en.wikipedia.org/wiki/Lexical_resource
 * Linear function
   * https://en.wikipedia.org/wiki/Linear_function
 * Linear predictor function
