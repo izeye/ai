@@ -64,6 +64,8 @@
   * https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html
 * TensorFlow Mechanics 101
   * https://www.tensorflow.org/versions/r0.7/tutorials/mnist/tf/index.html
+* Convolutional Neural Networks
+  * https://www.tensorflow.org/versions/master/tutorials/deep_cnn/index.html
 
 ##### HOW TO
 * Variables: Creation, Initialization, Saving, and Loading
