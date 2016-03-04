@@ -89,6 +89,8 @@
   * https://en.wikipedia.org/wiki/Stop_words
 * Test set
   * https://en.wikipedia.org/wiki/Test_set
+* tf–idf
+  * https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 * Theano (software)
   * https://en.wikipedia.org/wiki/Theano_(software)
 * Truncated Newton method
