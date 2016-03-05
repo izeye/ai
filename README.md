@@ -9,6 +9,8 @@
 #### Linear Algebra (Instructor(s): Prof. Gilbert Strang, MIT Course Number: 18.06, As Taught In: Spring 2010, Level: Undergraduate)
 * Lecture 1: The geometry of linear equations
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/
+* Lecture 2: Elimination with matrices
+  * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/
 
 ## Tutorials
 ### Oxford
