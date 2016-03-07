@@ -13,6 +13,8 @@
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/
 * Lecture 3: Multiplication and inverse matrices
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/
+* Lecture 4: Factorization into A = LU
+  * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/
 
 ## Tutorials
 ### Oxford
