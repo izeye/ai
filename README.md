@@ -15,6 +15,8 @@
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/
 * Lecture 4: Factorization into A = LU
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/
+* Lecture 5: Transposes, permutations, spaces R^n
+  * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/
 
 ## Tutorials
 ### Oxford
