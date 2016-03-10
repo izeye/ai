@@ -25,6 +25,8 @@
   * https://en.wikipedia.org/wiki/Delta_rule
 * Distributional semantics
   * https://en.wikipedia.org/wiki/Distributional_semantics
+* Document-term matrix
+  * https://en.wikipedia.org/wiki/Document-term_matrix
 * Dropout (neural networks)
   * https://en.wikipedia.org/wiki/Dropout_(neural_networks)
 * Eager learning
