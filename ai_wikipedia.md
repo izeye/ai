@@ -49,6 +49,8 @@
   * https://en.wikipedia.org/wiki/Instance-based_learning
 * Kernel (image processing)
   * https://en.wikipedia.org/wiki/Kernel_(image_processing)
+* Latent semantic analysis
+  * https://en.wikipedia.org/wiki/Latent_semantic_analysis
 * Lazy learning
   * https://en.wikipedia.org/wiki/Lazy_learning
 * Lexical database
