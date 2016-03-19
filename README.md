@@ -117,6 +117,10 @@
 * WHAT IS GPU ACCELERATED COMPUTING?
   * http://www.nvidia.com/object/what-is-gpu-computing.html
 
+## Scholarpedia
+* Neural net language models
+  * http://www.scholarpedia.org/article/Neural_net_language_models
+
 ## Wolfram
 * Diagonal Matrix
   * http://mathworld.wolfram.com/DiagonalMatrix.html
