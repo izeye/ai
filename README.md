@@ -16,6 +16,24 @@
   * Unsupervised Learning
     * https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
 
+###### Linear Regression with One Variable
+* Model and Cost Function
+  * Model Representation
+    * https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation
+  * Cost Function
+    * https://www.coursera.org/learn/machine-learning/lecture/rkTp3/cost-function
+  * Cost Function - Intuition I
+    * https://www.coursera.org/learn/machine-learning/lecture/N09c6/cost-function-intuition-i
+  * Cost Function - Intuition II
+    * https://www.coursera.org/learn/machine-learning/lecture/nwpe2/cost-function-intuition-ii
+* Parameter Learning
+  * Gradient Descent
+    * https://www.coursera.org/learn/machine-learning/lecture/8SpIM/gradient-descent
+  * Gradient Descent Intuition
+    * https://www.coursera.org/learn/machine-learning/lecture/GFFPB/gradient-descent-intuition
+  * Gradient Descent For Linear Regression
+    * https://www.coursera.org/learn/machine-learning/lecture/kCvQc/gradient-descent-for-linear-regression
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
