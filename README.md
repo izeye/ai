@@ -5,14 +5,16 @@
 #### Andrew Ng, Stanford University, Coursera
 ##### Week 1
 ###### Introduction
-* Welcome to Machine Learning!
-  * https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine-learning
 * Welcome
-  * https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
-* Supervised Learning
-  * https://www.coursera.org/learn/machine-learning/lecture/1VkCb/supervised-learning
-* Unsupervised Learning
-  * https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
+  * Welcome to Machine Learning!
+    * https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine-learning
+* Introduction
+  * Welcome
+    * https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
+  * Supervised Learning
+    * https://www.coursera.org/learn/machine-learning/lecture/1VkCb/supervised-learning
+  * Unsupervised Learning
+    * https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
