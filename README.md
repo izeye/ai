@@ -33,6 +33,20 @@
     * https://www.coursera.org/learn/machine-learning/lecture/GFFPB/gradient-descent-intuition
   * Gradient Descent For Linear Regression
     * https://www.coursera.org/learn/machine-learning/lecture/kCvQc/gradient-descent-for-linear-regression
+###### Linear Algebra Review
+* Linear Algebra Review
+  * Matrices and Vectors
+    * https://www.coursera.org/learn/machine-learning/lecture/38jIT/matrices-and-vectors
+  * Addition and Scalar Multiplication
+    * https://www.coursera.org/learn/machine-learning/lecture/R4hiJ/addition-and-scalar-multiplication
+  * Matrix Vector Multiplication
+    * https://www.coursera.org/learn/machine-learning/lecture/aQDta/matrix-vector-multiplication
+  * Matrix Matrix Multiplication
+    * https://www.coursera.org/learn/machine-learning/lecture/dpF1j/matrix-matrix-multiplication
+  * Matrix Multiplication Properties
+    * https://www.coursera.org/learn/machine-learning/lecture/W1LNU/matrix-multiplication-properties
+  * Inverse and Transpose
+    * https://www.coursera.org/learn/machine-learning/lecture/FuSWY/inverse-and-transpose
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
