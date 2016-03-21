@@ -136,6 +136,8 @@
   * http://deeplearning4j.org/neuralnet-overview.html
 * Using Neural Networks With Regression
   * http://deeplearning4j.org/linear-regression.html
+* Word2Vec
+  * http://deeplearning4j.org/word2vec
 
 ## Implementations
 ### CNN
