@@ -97,6 +97,8 @@
   * https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 * Theano (software)
   * https://en.wikipedia.org/wiki/Theano_(software)
+* Topic model
+  * https://en.wikipedia.org/wiki/Topic_model
 * Truncated Newton method
   * https://en.wikipedia.org/wiki/Truncated_Newton_method
 * Vanishing gradient problem
