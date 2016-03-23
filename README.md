@@ -67,6 +67,8 @@
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/
 * Lecture 6: Column space and nullspace
   * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/
+* Lecture 7: Solving Ax = 0: pivot variables, special solutions
+  * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/
 
 ## Tutorials
 ### Oxford
