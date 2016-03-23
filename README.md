@@ -152,6 +152,8 @@
   * http://deeplearning4j.org/linear-regression.html
 * Word2Vec
   * http://deeplearning4j.org/word2vec
+* A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy
+  * http://deeplearning4j.org/eigenvector.html
 
 ## Implementations
 ### CNN
