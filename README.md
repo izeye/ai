@@ -33,6 +33,7 @@
     * https://www.coursera.org/learn/machine-learning/lecture/GFFPB/gradient-descent-intuition
   * Gradient Descent For Linear Regression
     * https://www.coursera.org/learn/machine-learning/lecture/kCvQc/gradient-descent-for-linear-regression
+
 ###### Linear Algebra Review
 * Linear Algebra Review
   * Matrices and Vectors
@@ -47,6 +48,23 @@
     * https://www.coursera.org/learn/machine-learning/lecture/W1LNU/matrix-multiplication-properties
   * Inverse and Transpose
     * https://www.coursera.org/learn/machine-learning/lecture/FuSWY/inverse-and-transpose
+
+##### Week 2
+###### Linear Regression with Multiple Variables
+* Multivariate Linear Regression
+  * Multiple Features
+    * https://www.coursera.org/learn/machine-learning/lecture/6Nj1q/multiple-features
+  * Gradient Descent for Multiple Variables
+    * https://www.coursera.org/learn/machine-learning/lecture/Z9DKX/gradient-descent-for-multiple-variables
+  * Gradient Descent in Practice I - Feature Scaling
+    * https://www.coursera.org/learn/machine-learning/lecture/xx3Da/gradient-descent-in-practice-i-feature-scaling
+  * Gradient Descent in Practice II - Learning Rate
+    * https://www.coursera.org/learn/machine-learning/lecture/3iawu/gradient-descent-in-practice-ii-learning-rate
+  * Features and Polynomial Regression
+    * https://www.coursera.org/learn/machine-learning/lecture/Rqgfz/features-and-polynomial-regression
+* Computing Parameters Analytically
+  * Normal Equation
+    * https://www.coursera.org/learn/machine-learning/lecture/2DKxQ/normal-equation
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
