@@ -164,6 +164,10 @@
 
 ### Java
 #### DL4J (Deep Learning for Java)
+* A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy
+  * http://deeplearning4j.org/eigenvector.html
+* A Beginner’s Tutorial for Restricted Boltzmann Machines
+  * http://deeplearning4j.org/restrictedboltzmannmachine.html
 * Convolutional Networks
   * http://deeplearning4j.org/convolutionalnets.html
 * Introduction to Deep Neural Networks
@@ -172,8 +176,6 @@
   * http://deeplearning4j.org/linear-regression.html
 * Word2Vec
   * http://deeplearning4j.org/word2vec
-* A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy
-  * http://deeplearning4j.org/eigenvector.html
 
 ## Implementations
 ### CNN
