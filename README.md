@@ -66,6 +66,27 @@
   * Normal Equation
     * https://www.coursera.org/learn/machine-learning/lecture/2DKxQ/normal-equation
 
+###### Octave Tutorial
+* Octave Tutorial
+  * Basic Operations
+    * https://www.coursera.org/learn/machine-learning/lecture/9fHfl/basic-operations
+  * Moving Data Around
+    * https://www.coursera.org/learn/machine-learning/lecture/SZJIc/moving-data-around
+  * Computing on Data
+    * https://www.coursera.org/learn/machine-learning/lecture/Y6uuC/computing-on-data
+  * Plotting Data
+    * https://www.coursera.org/learn/machine-learning/lecture/I7gx3/plotting-data
+  * Control Statements: for, while, if statement
+    * https://www.coursera.org/learn/machine-learning/lecture/LRQnl/control-statements-for-while-if-statement
+  * Vectorization
+    * https://www.coursera.org/learn/machine-learning/lecture/WnQWH/vectorization
+  * Normal Equation Noninvertibility
+    * https://www.coursera.org/learn/machine-learning/lecture/zSiE6/normal-equation-noninvertibility
+
+* Submitting Programming Assignments
+  * Working on and Submitting Programming Assignments
+    * https://www.coursera.org/learn/machine-learning/lecture/Lt2Mx/working-on-and-submitting-programming-assignments
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
