@@ -19,6 +19,8 @@
   * https://en.wikipedia.org/wiki/Decision_boundary
 * Decision tree
   * https://en.wikipedia.org/wiki/Decision_tree
+* Deep belief network
+  * https://en.wikipedia.org/wiki/Deep_belief_network
 * DeepDream
   * https://en.wikipedia.org/wiki/DeepDream
 * Delta rule
