@@ -82,7 +82,6 @@
     * https://www.coursera.org/learn/machine-learning/lecture/WnQWH/vectorization
   * Normal Equation Noninvertibility
     * https://www.coursera.org/learn/machine-learning/lecture/zSiE6/normal-equation-noninvertibility
-
 * Submitting Programming Assignments
   * Working on and Submitting Programming Assignments
     * https://www.coursera.org/learn/machine-learning/lecture/Lt2Mx/working-on-and-submitting-programming-assignments
