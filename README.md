@@ -170,6 +170,8 @@
   * http://deeplearning4j.org/restrictedboltzmannmachine.html
 * Convolutional Networks
   * http://deeplearning4j.org/convolutionalnets.html
+* Deep-Belief Networks
+  * http://deeplearning4j.org/deepbeliefnetwork.html
 * Introduction to Deep Neural Networks
   * http://deeplearning4j.org/neuralnet-overview.html
 * Using Neural Networks With Regression
