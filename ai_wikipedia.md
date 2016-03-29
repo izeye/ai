@@ -101,6 +101,8 @@
   * https://en.wikipedia.org/wiki/Theano_(software)
 * Topic model
   * https://en.wikipedia.org/wiki/Topic_model
+* Trigram
+  * https://en.wikipedia.org/wiki/Trigram
 * Truncated Newton method
   * https://en.wikipedia.org/wiki/Truncated_Newton_method
 * Vanishing gradient problem
