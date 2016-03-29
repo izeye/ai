@@ -77,6 +77,8 @@
   * https://en.wikipedia.org/wiki/Overfitting
 * Perceptron
   * https://en.wikipedia.org/wiki/Perceptron
+* Perplexity
+  * https://en.wikipedia.org/wiki/Perplexity
 * Phrase search
   * https://en.wikipedia.org/wiki/Phrase_search
 * Plateau (mathematics)
