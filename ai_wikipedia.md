@@ -33,6 +33,8 @@
   * https://en.wikipedia.org/wiki/Dropout_(neural_networks)
 * Eager learning
   * https://en.wikipedia.org/wiki/Eager_learning
+* Feature (machine learning)
+  * https://en.wikipedia.org/wiki/Feature_(machine_learning)
 * Feature engineering
   * https://en.wikipedia.org/wiki/Feature_engineering
 * Feature learning
