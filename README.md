@@ -86,6 +86,16 @@
   * Working on and Submitting Programming Assignments
     * https://www.coursera.org/learn/machine-learning/lecture/Lt2Mx/working-on-and-submitting-programming-assignments
 
+##### Week 3
+###### Logistic Regression
+* Classification and Representation
+  * Classification
+    * https://www.coursera.org/learn/machine-learning/lecture/wlPeP/classification
+  * Hypothesis Representation
+    * https://www.coursera.org/learn/machine-learning/lecture/RJXfB/hypothesis-representation
+  * Decision Boundary
+    * https://www.coursera.org/learn/machine-learning/lecture/WuL1H/decision-boundary
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
