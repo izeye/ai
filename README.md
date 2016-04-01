@@ -134,6 +134,11 @@
 * Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
   * http://arxiv.org/pdf/1412.3555.pdf
 
+### NLP
+#### Word2vec
+* Efficient Estimation of Word Representations in Vector Space
+  * http://arxiv.org/pdf/1301.3781v3.pdf
+
 ## Blogs
 ### General
 * 10 Deep Learning Trends at NIPS 2015
