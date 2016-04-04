@@ -95,6 +95,13 @@
     * https://www.coursera.org/learn/machine-learning/lecture/RJXfB/hypothesis-representation
   * Decision Boundary
     * https://www.coursera.org/learn/machine-learning/lecture/WuL1H/decision-boundary
+* Logistic Regression Model
+  * Cost Function
+    * https://www.coursera.org/learn/machine-learning/lecture/1XG8G/cost-function
+  * Simplified Cost Function and Gradient Descent
+    * https://www.coursera.org/learn/machine-learning/lecture/MtEaZ/simplified-cost-function-and-gradient-descent
+  * Advanced Optimization
+    * https://www.coursera.org/learn/machine-learning/lecture/licwf/advanced-optimization
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
