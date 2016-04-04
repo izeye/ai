@@ -102,6 +102,9 @@
     * https://www.coursera.org/learn/machine-learning/lecture/MtEaZ/simplified-cost-function-and-gradient-descent
   * Advanced Optimization
     * https://www.coursera.org/learn/machine-learning/lecture/licwf/advanced-optimization
+* Multiclass Classification
+  * Multiclass Classification: One-vs-all
+    * https://www.coursera.org/learn/machine-learning/lecture/68Pol/multiclass-classification-one-vs-all
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
