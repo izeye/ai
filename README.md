@@ -106,6 +106,17 @@
   * Multiclass Classification: One-vs-all
     * https://www.coursera.org/learn/machine-learning/lecture/68Pol/multiclass-classification-one-vs-all
 
+###### Regularization
+* Solving the Problem of Overfitting
+  * The Problem of Overfitting
+    * https://www.coursera.org/learn/machine-learning/lecture/ACpTQ/the-problem-of-overfitting
+  * Cost Function
+    * https://www.coursera.org/learn/machine-learning/lecture/B1MnL/cost-function
+  * Regularized Linear Regression
+    * https://www.coursera.org/learn/machine-learning/lecture/QrMXd/regularized-linear-regression
+  * Regularized Logistic Regression
+    * https://www.coursera.org/learn/machine-learning/lecture/4BHEy/regularized-logistic-regression
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
