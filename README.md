@@ -153,6 +153,13 @@
 * VGG Convolutional Neural Networks Practical
   * http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html
 
+### Stanford
+#### UFLDL Tutorial
+* Linear Regression
+  * http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
+* Logistic Regression
+  * http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/
+
 ## Papers
 ### CNN
 * Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books
