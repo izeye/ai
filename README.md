@@ -159,6 +159,8 @@
   * http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
 * Logistic Regression
   * http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/
+* Vectorization
+  * http://ufldl.stanford.edu/tutorial/supervised/Vectorization/
 
 ## Papers
 ### CNN
