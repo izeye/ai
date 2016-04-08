@@ -162,6 +162,8 @@
   * http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/
 * Vectorization
   * http://ufldl.stanford.edu/tutorial/supervised/Vectorization/
+* Debugging: Gradient Checking
+  * http://ufldl.stanford.edu/tutorial/supervised/DebuggingGradientChecking/
 
 ## Papers
 ### CNN
