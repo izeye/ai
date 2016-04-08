@@ -155,6 +155,7 @@
 
 ### Stanford
 #### UFLDL Tutorial
+##### Supervised Learning and Optimization
 * Linear Regression
   * http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
 * Logistic Regression
