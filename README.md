@@ -117,6 +117,14 @@
   * Regularized Logistic Regression
     * https://www.coursera.org/learn/machine-learning/lecture/4BHEy/regularized-logistic-regression
 
+##### Week 4
+###### Neural Networks: Representation
+* Motivations
+  * Non-linear Hypotheses
+    * https://www.coursera.org/learn/machine-learning/lecture/OAOhO/non-linear-hypotheses
+  * Neurons and the Brain
+    * https://www.coursera.org/learn/machine-learning/lecture/IPmzw/neurons-and-the-brain
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
