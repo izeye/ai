@@ -124,6 +124,11 @@
     * https://www.coursera.org/learn/machine-learning/lecture/OAOhO/non-linear-hypotheses
   * Neurons and the Brain
     * https://www.coursera.org/learn/machine-learning/lecture/IPmzw/neurons-and-the-brain
+* Neural Networks
+  * Model Representation I
+    * https://www.coursera.org/learn/machine-learning/lecture/ka3jK/model-representation-i
+  * Model Representation II
+    * https://www.coursera.org/learn/machine-learning/lecture/Hw3VK/model-representation-ii
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
