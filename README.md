@@ -129,6 +129,13 @@
     * https://www.coursera.org/learn/machine-learning/lecture/ka3jK/model-representation-i
   * Model Representation II
     * https://www.coursera.org/learn/machine-learning/lecture/Hw3VK/model-representation-ii
+* Applications
+  * Examples and Intuitions I
+    * https://www.coursera.org/learn/machine-learning/lecture/rBZmG/examples-and-intuitions-i
+  * Examples and Intuitions II
+    * https://www.coursera.org/learn/machine-learning/lecture/solUx/examples-and-intuitions-ii
+  * Multiclass Classification
+    * https://www.coursera.org/learn/machine-learning/lecture/gFpiW/multiclass-classification
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
