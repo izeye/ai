@@ -137,6 +137,16 @@
   * Multiclass Classification
     * https://www.coursera.org/learn/machine-learning/lecture/gFpiW/multiclass-classification
 
+##### Week 5
+###### Neural Networks: Learning
+* Cost Function and Backpropagation
+  * Cost Function
+    * https://www.coursera.org/learn/machine-learning/lecture/na28E/cost-function
+  * Backpropagation Algorithm
+    * https://www.coursera.org/learn/machine-learning/lecture/1z9WW/backpropagation-algorithm
+  * Backpropagation Intuition
+    * https://www.coursera.org/learn/machine-learning/lecture/du981/backpropagation-intuition
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
