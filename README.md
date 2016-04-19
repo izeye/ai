@@ -146,6 +146,18 @@
     * https://www.coursera.org/learn/machine-learning/lecture/1z9WW/backpropagation-algorithm
   * Backpropagation Intuition
     * https://www.coursera.org/learn/machine-learning/lecture/du981/backpropagation-intuition
+* Backpropagation in Practice
+  * Implementation Note: Unrolling Parameters
+    * https://www.coursera.org/learn/machine-learning/lecture/60Uxp/implementation-note-unrolling-parameters
+  * Gradient Checking
+    * https://www.coursera.org/learn/machine-learning/lecture/Y3s6r/gradient-checking
+  * Random Initialization
+    * https://www.coursera.org/learn/machine-learning/lecture/ND5G5/random-initialization
+  * Putting It Together
+    * https://www.coursera.org/learn/machine-learning/lecture/Wh6s3/putting-it-together
+* Application of Neural Networks
+  * Autonomous Driving
+    * https://www.coursera.org/learn/machine-learning/lecture/zYS8T/autonomous-driving
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
