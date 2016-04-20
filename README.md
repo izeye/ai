@@ -159,6 +159,16 @@
   * Autonomous Driving
     * https://www.coursera.org/learn/machine-learning/lecture/zYS8T/autonomous-driving
 
+##### Week 6
+###### Advice for Applying Machine Learning
+* Evaluating a Learning Algorithm
+  * Deciding What to Try Next
+    * https://www.coursera.org/learn/machine-learning/lecture/OVM4M/deciding-what-to-try-next
+  * Evaluating a Hypothesis
+    * https://www.coursera.org/learn/machine-learning/lecture/yfbJY/evaluating-a-hypothesis
+  * Model Selection and Train/Validation/Test Sets
+    * https://www.coursera.org/learn/machine-learning/lecture/QGKbr/model-selection-and-train-validation-test-sets
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
