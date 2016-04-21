@@ -9,6 +9,8 @@
   * https://en.wikipedia.org/wiki/Backpropagation_through_time
 * Bag-of-words model
   * https://en.wikipedia.org/wiki/Bag-of-words_model
+* Beam search
+  * https://en.wikipedia.org/wiki/Beam_search
 * Concept-based image indexing
   * https://en.wikipedia.org/wiki/Concept-based_image_indexing
 * Convolutional neural network
