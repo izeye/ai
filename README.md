@@ -218,6 +218,8 @@
   * http://ufldl.stanford.edu/tutorial/supervised/DebuggingGradientChecking/
 * Softmax Regression
   * http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
+* Debugging: Bias and Variance
+  * http://ufldl.stanford.edu/tutorial/supervised/DebuggingBiasAndVariance/
 
 ## Papers
 ### CNN
