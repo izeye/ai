@@ -216,6 +216,8 @@
   * http://ufldl.stanford.edu/tutorial/supervised/Vectorization/
 * Debugging: Gradient Checking
   * http://ufldl.stanford.edu/tutorial/supervised/DebuggingGradientChecking/
+* Softmax Regression
+  * http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
 
 ## Papers
 ### CNN
