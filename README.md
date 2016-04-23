@@ -189,6 +189,9 @@
     * https://www.coursera.org/learn/machine-learning/lecture/tKMWX/error-metrics-for-skewed-classes
   * Trading Off Precision and Recall
     * https://www.coursera.org/learn/machine-learning/lecture/CuONQ/trading-off-precision-and-recall
+* Using Large Data Sets
+  * Data For Machine Learning
+    * https://www.coursera.org/learn/machine-learning/lecture/XcNcz/data-for-machine-learning
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
