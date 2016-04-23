@@ -168,6 +168,15 @@
     * https://www.coursera.org/learn/machine-learning/lecture/yfbJY/evaluating-a-hypothesis
   * Model Selection and Train/Validation/Test Sets
     * https://www.coursera.org/learn/machine-learning/lecture/QGKbr/model-selection-and-train-validation-test-sets
+* Bias vs. Variance
+  * Diagnosing Bias vs. Variance
+    * https://www.coursera.org/learn/machine-learning/lecture/yCAup/diagnosing-bias-vs-variance
+  * Regularization and Bias/Variance
+    * https://www.coursera.org/learn/machine-learning/lecture/4VDlf/regularization-and-bias-variance
+  * Learning Curves
+    * https://www.coursera.org/learn/machine-learning/lecture/Kont7/learning-curves
+  * Deciding What to Do Next Revisited
+    * https://www.coursera.org/learn/machine-learning/lecture/zJTzp/deciding-what-to-do-next-revisited
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
