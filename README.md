@@ -184,6 +184,11 @@
     * https://www.coursera.org/learn/machine-learning/lecture/4h5X4/prioritizing-what-to-work-on
   * Error Analysis
     * https://www.coursera.org/learn/machine-learning/lecture/x62iE/error-analysis
+* Handling Skewed Data
+  * Error Metrics for Skewed Classes
+    * https://www.coursera.org/learn/machine-learning/lecture/tKMWX/error-metrics-for-skewed-classes
+  * Trading Off Precision and Recall
+    * https://www.coursera.org/learn/machine-learning/lecture/CuONQ/trading-off-precision-and-recall
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
