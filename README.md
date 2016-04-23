@@ -178,6 +178,13 @@
   * Deciding What to Do Next Revisited
     * https://www.coursera.org/learn/machine-learning/lecture/zJTzp/deciding-what-to-do-next-revisited
 
+###### Machine Learning System Design
+* Building a Spam Classifier
+  * Prioritizing What to Work On
+    * https://www.coursera.org/learn/machine-learning/lecture/4h5X4/prioritizing-what-to-work-on
+  * Error Analysis
+    * https://www.coursera.org/learn/machine-learning/lecture/x62iE/error-analysis
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
