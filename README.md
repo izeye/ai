@@ -246,6 +246,8 @@
   * http://ufldl.stanford.edu/tutorial/supervised/DebuggingBiasAndVariance/
 * Multi-Layer Neural Network
   * http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
+* Exercise: Supervised Neural Networks
+  * http://ufldl.stanford.edu/tutorial/supervised/ExerciseSupervisedNeuralNetwork/
 
 ## Papers
 ### CNN
