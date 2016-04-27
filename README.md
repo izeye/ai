@@ -336,6 +336,10 @@
 * LeNet-5
   * http://yann.lecun.com/exdb/lenet/
 
+## Demos
+* Neural Network, Matt Mazur
+  * http://www.emergentmind.com/neural-network
+
 ## GPU
 ### NVIDIA
 * KEPLER - THE WORLD'S FASTEST, MOST EFFICIENT HPC ARCHITECTURE
