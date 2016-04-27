@@ -244,6 +244,8 @@
   * http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
 * Debugging: Bias and Variance
   * http://ufldl.stanford.edu/tutorial/supervised/DebuggingBiasAndVariance/
+* Multi-Layer Neural Network
+  * http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 
 ## Papers
 ### CNN
