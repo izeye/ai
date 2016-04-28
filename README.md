@@ -193,7 +193,7 @@
   * Data For Machine Learning
     * https://www.coursera.org/learn/machine-learning/lecture/XcNcz/data-for-machine-learning
 
-##### Week 6
+##### Week 7
 ###### Support Vector Machines
 * Large Margin Classification
   * Optimization Objective
@@ -202,6 +202,11 @@
     * https://www.coursera.org/learn/machine-learning/lecture/wrjaS/large-margin-intuition
   * Mathematics Behind Large Margin Classification
     * https://www.coursera.org/learn/machine-learning/lecture/3eNnh/mathematics-behind-large-margin-classification
+* Kernels
+  * Kernels I
+    * https://www.coursera.org/learn/machine-learning/lecture/YOMHn/kernels-i
+  * Kernels II
+    * https://www.coursera.org/learn/machine-learning/lecture/hxdcH/kernels-ii
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
