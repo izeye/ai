@@ -207,6 +207,9 @@
     * https://www.coursera.org/learn/machine-learning/lecture/YOMHn/kernels-i
   * Kernels II
     * https://www.coursera.org/learn/machine-learning/lecture/hxdcH/kernels-ii
+* SVMs in Practice
+  * Using An SVM
+    * https://www.coursera.org/learn/machine-learning/lecture/sKQoJ/using-an-svm
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
