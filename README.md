@@ -211,6 +211,20 @@
   * Using An SVM
     * https://www.coursera.org/learn/machine-learning/lecture/sKQoJ/using-an-svm
 
+##### Week 8
+###### Unsupervised Learning
+* Clustering
+  * Unsupervised Learning: Introduction
+    * https://www.coursera.org/learn/machine-learning/lecture/czmip/unsupervised-learning-introduction
+  * K-Means Algorithm
+    * https://www.coursera.org/learn/machine-learning/lecture/93VPG/k-means-algorithm
+  * Optimization Objective
+    * https://www.coursera.org/learn/machine-learning/lecture/G6QWt/optimization-objective
+  * Random Initialization
+    * https://www.coursera.org/learn/machine-learning/lecture/drcBh/random-initialization
+  * Choosing the Number of Clusters
+    * https://www.coursera.org/learn/machine-learning/lecture/Ks0E9/choosing-the-number-of-clusters
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
