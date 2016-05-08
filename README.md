@@ -225,6 +225,11 @@
   * Choosing the Number of Clusters
     * https://www.coursera.org/learn/machine-learning/lecture/Ks0E9/choosing-the-number-of-clusters
 
+#### Convolutional Neural Networks for Visual Recognition, CS231n, Stanford University
+* Module 0: Preparation
+  * Python / Numpy Tutorial
+    * http://cs231n.github.io/python-numpy-tutorial/
+
 #### Uncategorized
 * Linear regression (2): Gradient descent
   * Alexander Ihler
