@@ -229,6 +229,8 @@
 * Module 0: Preparation
   * Python / Numpy Tutorial
     * http://cs231n.github.io/python-numpy-tutorial/
+  * IPython Notebook Tutorial
+    * http://cs231n.github.io/ipython-tutorial/
 
 #### Uncategorized
 * Linear regression (2): Gradient descent
