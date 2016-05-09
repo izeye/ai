@@ -225,6 +225,13 @@
   * Choosing the Number of Clusters
     * https://www.coursera.org/learn/machine-learning/lecture/Ks0E9/choosing-the-number-of-clusters
 
+###### Dimensionality Reduction
+* Motivation
+  * Motivation I: Data Compression
+    * https://www.coursera.org/learn/machine-learning/lecture/0EJ6A/motivation-i-data-compression
+  * Motivation II: Visualization
+    * https://www.coursera.org/learn/machine-learning/lecture/t6pYD/motivation-ii-visualization
+
 #### Convolutional Neural Networks for Visual Recognition, CS231n, Stanford University
 * Module 0: Preparation
   * Python / Numpy Tutorial
