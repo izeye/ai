@@ -231,6 +231,11 @@
     * https://www.coursera.org/learn/machine-learning/lecture/0EJ6A/motivation-i-data-compression
   * Motivation II: Visualization
     * https://www.coursera.org/learn/machine-learning/lecture/t6pYD/motivation-ii-visualization
+* Principal Component Analysis
+  * Principal Component Analysis Problem Formulation
+    * https://www.coursera.org/learn/machine-learning/lecture/GBFTt/principal-component-analysis-problem-formulation
+  * Principal Component Analysis Algorithm
+    * https://www.coursera.org/learn/machine-learning/lecture/ZYIPa/principal-component-analysis-algorithm
 
 #### Convolutional Neural Networks for Visual Recognition, CS231n, Stanford University
 * Module 0: Preparation
