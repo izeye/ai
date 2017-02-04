@@ -1,4 +1,7 @@
 # AI
+## Articles
+* Detecting Tanks
+  * http://www.jefftk.com/p/detecting-tanks
 
 ## Lectures
 ### Machine Learning
