@@ -3,6 +3,10 @@
 * How to Classify Images with TensorFlow
   * https://research.googleblog.com/2015/12/how-to-classify-images-with-tensorflow.html
 
+## Andrej Karpathy blog
+* Lessons learned from manually classifying CIFAR-10
+  * http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/
+
 ## General
 * 10 Deep Learning Trends at NIPS 2015
   * http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html
