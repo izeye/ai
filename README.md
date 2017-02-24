@@ -59,6 +59,10 @@
 * LeNet-5
   * http://yann.lecun.com/exdb/lenet/
 
+## Reviews
+* Paying with Your Face
+  * https://www.technologyreview.com/s/603494/10-breakthrough-technologies-2017-paying-with-your-face/
+
 ## Demos
 * Neural Network, Matt Mazur
   * http://www.emergentmind.com/neural-network
