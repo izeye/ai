@@ -63,6 +63,10 @@
 * Paying with Your Face
   * https://www.technologyreview.com/s/603494/10-breakthrough-technologies-2017-paying-with-your-face/
 
+## News
+* Alphabet's Waymo sues Uber for allegedly stealing self-driving car secrets
+  * http://www.theverge.com/2017/2/23/14719906/google-waymo-uber-self-driving-lawsuit-stolen-technology
+
 ## Demos
 * Neural Network, Matt Mazur
   * http://www.emergentmind.com/neural-network
