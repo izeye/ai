@@ -6,6 +6,8 @@
 ## Andrej Karpathy blog
 * Lessons learned from manually classifying CIFAR-10
   * http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/
+* What I learned from competing against a ConvNet on ImageNet
+  * http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/
 
 ## General
 * 10 Deep Learning Trends at NIPS 2015
