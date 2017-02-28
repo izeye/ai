@@ -70,6 +70,8 @@
 ## Demos
 * Neural Network, Matt Mazur
   * http://www.emergentmind.com/neural-network
+* Self-driving cars in the browser
+  * http://janhuenermann.com/projects/learning-to-drive
 
 ## GPU
 ### NVIDIA
