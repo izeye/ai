@@ -2,6 +2,8 @@
 ## Articles
 * Detecting Tanks
   * http://www.jefftk.com/p/detecting-tanks
+* Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image
+  * https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/
 
 ## Tutorials
 ### Oxford
