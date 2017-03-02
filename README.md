@@ -1,5 +1,7 @@
 # AI
 ## Articles
+* Deep Voice: Real-Time Neural Text-to-Speech for Production
+  * http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/
 * Detecting Tanks
   * http://www.jefftk.com/p/detecting-tanks
 * Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image
