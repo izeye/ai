@@ -4,6 +4,8 @@
   * http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/
 * Detecting Tanks
   * http://www.jefftk.com/p/detecting-tanks
+* Google Deep Learning system diagnoses cancer better than a pathologist with unlimited time
+  * https://9to5google.com/2017/03/03/google-deep-learning-cancer-diagnosis/
 * Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image
   * https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/
 
