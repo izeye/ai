@@ -3,6 +3,10 @@
 * How to Classify Images with TensorFlow
   * https://research.googleblog.com/2015/12/how-to-classify-images-with-tensorflow.html
 
+## OpenAI
+* Spam detection in the physical world
+  * https://blog.openai.com/spam-detection-in-the-physical-world/
+
 ## Andrej Karpathy blog
 * Lessons learned from manually classifying CIFAR-10
   * http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/
