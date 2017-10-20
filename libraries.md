@@ -1,5 +1,11 @@
 # Libraries
 ## Python
+### Prophet (https://facebook.github.io/prophet/)
+* Installation
+  * https://facebook.github.io/prophet/docs/installation.html
+* Quick Start
+  * https://facebook.github.io/prophet/docs/quick_start.html
+
 ### TensorFlow (https://www.tensorflow.org/)
 #### GET STARTED
 * Introduction
