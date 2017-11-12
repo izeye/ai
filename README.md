@@ -115,3 +115,7 @@
   * http://mathworld.wolfram.com/Transpose.html
 * Vector Norm
   * http://mathworld.wolfram.com/VectorNorm.html
+
+## YouTube
+* How DataRobot Works
+  * https://www.youtube.com/watch?v=jiX1wk-g_3o
