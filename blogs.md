@@ -30,3 +30,6 @@
   * https://rorasa.wordpress.com/2012/05/13/l0-norm-l1-norm-l2-norm-l-infinity-norm/
 * Why Minimize Negative Log Likelihood?
   * https://quantivity.wordpress.com/2011/05/23/why-minimize-negative-log-likelihood/
+
+## Go
+* [Accelerating Self-Play Learning in Go](https://blog.janestreet.com/accelerating-self-play-learning-in-go/)
