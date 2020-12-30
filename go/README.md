@@ -8,3 +8,6 @@
 
 ## Wiki
 * [Go Text Protocol](https://en.wikipedia.org/wiki/Go_Text_Protocol)
+
+## Sensei's Library
+* [Last Play](https://senseis.xmp.net/?LastPlay)
