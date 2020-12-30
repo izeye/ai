@@ -11,3 +11,4 @@
 
 ## Sensei's Library
 * [Last Play](https://senseis.xmp.net/?LastPlay)
+* [Pass stone](https://senseis.xmp.net/?PassStone)
