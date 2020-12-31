@@ -19,3 +19,6 @@
 * [Point/ Scoring](https://senseis.xmp.net/?Point%2FScoring)
 * [Region](https://senseis.xmp.net/?Region)
 * [Temperature](https://senseis.xmp.net/?Temperature)
+
+## Problems
+* [goproblems.com Problem 7113](http://www.goproblems.com/prob.php3?id=7113)
