@@ -10,5 +10,7 @@
 * [Go Text Protocol](https://en.wikipedia.org/wiki/Go_Text_Protocol)
 
 ## Sensei's Library
+* [Intersections](https://senseis.xmp.net/?Intersections)
 * [Last Play](https://senseis.xmp.net/?LastPlay)
 * [Pass stone](https://senseis.xmp.net/?PassStone)
+* [Point](https://senseis.xmp.net/?Point)
