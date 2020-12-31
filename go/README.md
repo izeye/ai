@@ -18,3 +18,4 @@
 * [Point / Intersection](https://senseis.xmp.net/?Point%2FIntersection)
 * [Point/ Scoring](https://senseis.xmp.net/?Point%2FScoring)
 * [Region](https://senseis.xmp.net/?Region)
+* [Temperature](https://senseis.xmp.net/?Temperature)
