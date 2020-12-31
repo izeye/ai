@@ -21,4 +21,5 @@
 * [Temperature](https://senseis.xmp.net/?Temperature)
 
 ## Problems
+* [goproblems.com Problem 6922](http://www.goproblems.com/prob.php3?id=6922)
 * [goproblems.com Problem 7113](http://www.goproblems.com/prob.php3?id=7113)
