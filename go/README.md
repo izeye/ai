@@ -14,3 +14,6 @@
 * [Last Play](https://senseis.xmp.net/?LastPlay)
 * [Pass stone](https://senseis.xmp.net/?PassStone)
 * [Point](https://senseis.xmp.net/?Point)
+* [Point/Distance](https://senseis.xmp.net/?Point%2FDistance)
+* [Point / Intersection](https://senseis.xmp.net/?Point%2FIntersection)
+* [Point/ Scoring](https://senseis.xmp.net/?Point%2FScoring)
